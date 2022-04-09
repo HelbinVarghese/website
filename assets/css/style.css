@@ -1331,18 +1331,18 @@ header .main-menu .menu_cart .check_out {
 }
 
 .banner .banner-item {
-    background-image: url(/images/banner/banner_01.jpg);
+    background-image: url(../../images/banner/banner_01.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
 }
 
 .banner .banner-item.slide-two {
-    background-image: url(/images/banner/banner_02.jpg);
+    background-image: url(../../images/banner/banner_02.jpg);
 }
 
 .banner .banner-item.slide-three {
-    background-image: url(/images/banner/banner_03.jpg);
+    background-image: url(../../images/banner/banner_03.jpg);
 }
 
 .banner .banner-item .banner-overlay {
